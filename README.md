@@ -1,16 +1,32 @@
-## Hi there 👋
+# Merhaba! Ben Ebuenesy2 👋
 
-<!--
-**ebuenesy2/ebuenesy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benim adım Ebuenesy2 ve yazılımla ilgileniyorum. Çeşitli programlama dillerinde projeler geliştirmeye ve ders notlarımı paylaşmaya bayılıyorum. GitHub profilimde çeşitli projelerimi ve notlarımı bulabilirsiniz.
 
-Here are some ideas to get you started:
+## Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Yazılım ve Biyomedikal Mühendisliği öğrencisiyim.
+- 💻 JavaScript, HTML, CSS, PHP, Blade ve C# dillerinde projeler geliştiriyorum.
+- 📚 Yeni teknolojiler öğrenmeyi seviyorum ve sürekli kendimi geliştiriyorum.
+
+## Depolarım
+
+### Projelerim
+[Projelerim](https://github.com/ebuenesy2?tab=repositories)
+Çeşitli projelerimi bu sekmede bulabilirsiniz. Projelerim arasında web uygulamaları, mobil uygulamalar ve çeşitli algoritma çalışmaları bulunmaktadır.
+
+## İletişim
+
+Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçmekten çekinmeyin:
+
+- **GitHub**: [ebuenesy2](https://github.com/ebuenesy2)
+- **Email**: ebuenesy2@gmail.com
+- **LinkedIn**: [LinkedIn Profilim](https://www.linkedin.com/in/ebuenesy2)
+
+## Teknolojiler ve Araçlar
+
+Aşağıda, kullandığım ve deneyim sahibi olduğum bazı teknolojiler ve araçlar bulunmaktadır:
+
+- 🖥️ **Frontend**: HTML, CSS, JavaScript, React
+- ⚙️ **Backend**: Node.js, PHP, Laravel
+- 🗄️ **Veritabanı**: MySQL, MongoDB
+- 🛠️ **Araçlar**: Git, GitHub, VS Code, Postman
