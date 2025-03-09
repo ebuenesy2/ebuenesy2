@@ -20,7 +20,7 @@ Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime ge
 
 - **GitHub**: [ebuenesy2](https://github.com/ebuenesy2)
 - **Email**: ebuenesy2@gmail.com
-- **LinkedIn**: [LinkedIn Profilim](https://www.linkedin.com/in/ebuenesy2)
+- **LinkedIn**: [LinkedIn Profilim](https://www.linkedin.com/in/ebuenesyildirim/)
 
 ## Teknolojiler ve Araçlar
 
