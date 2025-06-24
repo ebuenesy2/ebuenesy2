@@ -1,21 +1,11 @@
 # Selamlar! Ben Ebu Enes Yıldırım 👋
 
-**Yaratıcı, tutkulu ve çözüm odaklı bir yazılım geliştiriciyim.** Yazılım dünyasında projeler geliştiriyor, farklı teknolojiler öğreniyor ve bu bilgiyi paylaşarak daha geniş bir kitleye ilham vermeyi hedefliyorum. **Kod yazmak benim için yalnızca bir iş değil; aynı zamanda bir sanat!**
-
----
-
 ## 💡 Hakkımda
-- 🎓 **Eğitim:** Yazılım ve Biyomedikal Mühendisliği öğrencisiyim.  
-- 💻 **Yetkinlikler:** JavaScript, HTML, CSS, PHP, Laravel, Blade, React ve C#.  
-- 🌟 **Hedefim:** Kullanıcı dostu ve performans odaklı projeler geliştirerek yazılım dünyasında fark yaratmak.  
-- 💡 **Motivasyonum:** Teknolojinin olanaklarını en iyi şekilde kullanarak yaşamı daha kolay ve işlevsel hale getiren çözümler üretmek.  
-- 🌍 **Tutkum:** Sürekli kendimi geliştirmek, topluluğa katkıda bulunmak ve bilgi paylaşımı ile yazılım dünyasını daha güçlü bir hale getirmek.
+- 🎓 **Eğitim:** Yazılım ve Biyomedikal Mühendisliği.  
+- 💻 **Yetkinlikler:** JavaScript, HTML, CSS, PHP, Laravel, React,Vue
 
----
 
 ## 🚀 Proje ve Çalışmalarım
-
-GitHub profilimde sergilenen projelerim, yazılım alanındaki tutkumun somut birer örneğidir. İşte projelerimden bazıları:
 
 ### Public Projelerim
 1. **Anket-Nodejs-MVC-MYSQL**  
@@ -65,7 +55,7 @@ Sorularınız, önerileriniz ya da projelerde işbirliği teklifiniz varsa benim
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
 ### 👨‍💻 Yazılım Geliştirme
-- **Frontend:** HTML, CSS, JavaScript, React  
+- **Frontend:** HTML, CSS, JavaScript, React, Vue
 - **Backend:** PHP, Laravel, Node.js  
 
 ### 🗄️ Veri Yönetimi
