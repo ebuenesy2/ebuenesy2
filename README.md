@@ -16,15 +16,7 @@
    - Modern ve verimli bir altyapıya sahiptir.  
    [GitHub Linki](https://github.com/ebuenesy2/Anket-Nodejs-MVC-MYSQL)
 
-2. **Blog-Nodejs-MVC-Postgresql**  
-   **Özellikler:**  
-   - Node.js ve PostgreSQL tabanlı.  
-   - Blog yazıları oluşturabilir, düzenleyebilir ve yorum yapılabilir.  
-   - MVC mimarisinin tüm avantajlarını kullanır.  
-   - Esnek ve ölçeklenebilir bir yapı sunar.  
-   [GitHub Linki](https://github.com/ebuenesy2/Blog-Nodejs-MVC-Postgresql)
-
-3. **Anket-Reactjs-Redux-Api**  
+2. **Anket-Reactjs-Redux-Api**  
    **Özellikler:**  
    - React.js ve Redux kullanılarak geliştirildi.  
    - API entegrasyonu ile dinamik veri yönetimi sağlar.  
