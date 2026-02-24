@@ -32,12 +32,6 @@
    - Anket oluşturma ve yönetme süreçlerini kolaylaştırır.  
    [GitHub Linki](https://github.com/ebuenesy2/Anket-Reactjs-Redux-Api)
 
-4. **Reactjs_SocialEducation**  
-   **Özellikler:**  
-   - React.js ile geliştirilmiş bir sosyal eğitim platformu.  
-   - Kullanıcıların eğitim materyalleri paylaşmasını ve etkileşimde bulunmasını sağlar.  
-   - Modern tasarımı ve kullanıcı dostu arayüzüyle ön plana çıkar.  
-   [GitHub Linki](https://github.com/ebuenesy2/Reactjs_SocialEducation)
 
 🔗 Daha fazla proje için: [GitHub Repositories](https://github.com/ebuenesy2?tab=repositories)
 
