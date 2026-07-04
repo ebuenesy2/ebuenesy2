@@ -143,20 +143,6 @@ Kurumsal ölçekli projeler, **FinTech / Kripto para borsaları** ve yüksek tra
 
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ebuenesy2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="ebuenesy2's GitHub Trophies" />
-  </a>
-</div>
-
-
-
-
-
----
-
 ## 📈 İlgi Alanları ve Araştırmalar
 
 <table>
