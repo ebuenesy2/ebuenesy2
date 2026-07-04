@@ -127,12 +127,7 @@ Kurumsal ölçekli projeler, **FinTech / Kripto para borsaları** ve yüksek tra
 
 ## 📊 GitHub İstatistiklerim
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebuenesy2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00d9ff&title_color=00d9ff&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebuenesy2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&langs_count=8" />
 
-</div>
 
 <div align="center">
   
@@ -151,10 +146,14 @@ Kurumsal ölçekli projeler, **FinTech / Kripto para borsaları** ve yüksek tra
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ebuenesy2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ebuenesy2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="ebuenesy2's GitHub Trophies" />
+  </a>
 </div>
+
+
+
+
 
 ---
 
